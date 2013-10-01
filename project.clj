@@ -1,4 +1,4 @@
-(defproject com.stuartsierra/class-diagram "0.1.0"
+(defproject com.stuartsierra/class-diagram "0.1.1-SNAPSHOT"
   :description "Generate and display class hierarchy diagrams for Java classes"
   :url "https://github.com/stuartsierra/class-diagram"
   :license {:name "Eclipse Public License"

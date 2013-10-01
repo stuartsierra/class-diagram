@@ -11,7 +11,9 @@ Uses [Graphviz] via [Rhizome] to generate graphs.
 
 ## Releases and Dependency Information
 
-Latest release version is **0.1.0**
+Releases are deployed to [Clojars].
+
+Latest stable release is [0.1.0]
 
 [Leiningen] dependency information:
 
@@ -25,9 +27,11 @@ Latest release version is **0.1.0**
       <version>0.1.0</version>
     </dependency>
 
+[Clojars]: http://clojars.org/
 [Leiningen]: http://leiningen.org/
 [Maven]: http://maven.apache.org/
 
+Git master branch is at version **0.1.1-SNAPSHOT**
 
 
 ## Usage and Examples
@@ -74,8 +78,10 @@ Or save that to a file:
 
 ## Change Log
 
-* Version 0.1.0 on 1-Oct-2013: Initial release
+* Version 0.1.1-SNAPSHOT: current Git master
+* Version [0.1.0] on 1-Oct-2013: Initial release
 
+[0.1.0]: https://github.com/stuartsierra/class-diagram/tree/class-diagram-0.1.0
 
 
 ## Copyright and License
