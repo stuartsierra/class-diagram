@@ -11,21 +11,18 @@ Uses [Graphviz] via [Rhizome] to generate graphs.
 
 ## Releases and Dependency Information
 
-No releases yet. 
-
-Run `lein install` in this directory, then use the dependency
-information below.
+Latest release version is **0.1.0**
 
 [Leiningen] dependency information:
 
-    [com.stuartsierra/class-diagram "0.1.0-SNAPSHOT"]
+    [com.stuartsierra/class-diagram "0.1.0"]
 
 [Maven] dependency information:
 
     <dependency>
       <groupId>com.stuartsierra</groupId>
       <artifactId>class-diagram</artifactId>
-      <version>0.1.0-SNAPSHOT</version>
+      <version>0.1.0</version>
     </dependency>
 
 [Leiningen]: http://leiningen.org/
@@ -77,7 +74,7 @@ Or save that to a file:
 
 ## Change Log
 
-* Version 0.1.0-SNAPSHOT
+* Version 0.1.0 on 1-Oct-2013: Initial release
 
 
 
