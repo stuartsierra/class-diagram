@@ -7,6 +7,10 @@ Uses [Graphviz] via [Rhizome] to generate graphs.
 [Graphviz]: http://www.graphviz.org/
 [Rhizome]: https://github.com/ztellman/rhizome
 
+This tool helps you examine subsets of a class hierarchy.
+To see all of Clojure's built-in classes and interfaces in one big
+diagram, try the [Clojure class chart](https://groups.google.com/d/msg/clojure/H42kG6_aKms/gYyJoD7UUe8J)
+by Chouser.
 
 
 ## Releases and Dependency Information
